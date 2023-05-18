@@ -1,0 +1,30 @@
+Spanish;
+"Buscar por fecha"="Buscar por fecha";
+"Notas"="Notas";
+"Agregar nota"="Agregar nota";
+"Editar nota"="Editar nota";
+"Seleccionar fecha"="Seleccionar fecha";
+"Guardar"="Guardar";
+"El titulo de la nota es requerido"="El titulo de la nota es requerido";
+"Titulo"="Titulo";
+
+English;
+"Buscar por fecha"="Search by date";
+"Notas"="Notes";
+"Agregar nota"="Add note";
+"Editar nota"="Edit note";
+"Seleccionar fecha"="Set date";
+"Guardar"="Save";
+"El titulo de la nota es requerido"="The title is required";
+"Titulo"="Title";
+
+French;
+"Buscar por fecha"="Recherche par date";
+"Notas"="Notes";
+"Agregar nota"="Ajouter des notes";
+"Editar nota"="Modifier des notes";
+"Seleccionar fecha"="Regler la date";
+"Guardar"="Sauvegarder";
+"El titulo de la nota es requerido"="Le titre est obligatoire";
+"Titulo"="Titre";
+

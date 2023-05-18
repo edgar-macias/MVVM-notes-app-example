@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Notes
+
+  Created by Edgar Macias on 18/12/22.
+  
+*/
+"Buscar por fecha"="Search by date";
+"Notas"="Notes";
+"Agregar nota"="Add note";
+"Editar nota"="Edit note";
+"Seleccionar fecha"="Set date";
+"Guardar"="Save";
+"El titulo de la nota es requerido"="The title is required";
+"Titulo"="Title";
